@@ -1,5 +1,7 @@
 {
+  
   "name": "chatapp",
+  "homepage": "https://nitianritik.github.io/chatttappp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
