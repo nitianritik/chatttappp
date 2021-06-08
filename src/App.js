@@ -75,6 +75,7 @@ function SignIn() {
 
 }
 
+
 function SignOut() {
   return auth.currentUser && (
     <img className="signoutlogo" onClick={() => auth.signOut()} src={signoutlogo} />
